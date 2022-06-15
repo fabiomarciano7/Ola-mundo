@@ -8,6 +8,7 @@ Markdown
 # Títulos 1
 ## Título 2
 ## Título 3
+Linha
 ---
 
 __*Podemos misturar marcas*__
@@ -19,13 +20,13 @@ Lista numerada:
 
 Bullet list
 * um
-   * doi
+   * dois
 
 Lista de tarefas
-- [] aprpender a codar
-- [x] Tomar café
+[] aprender a codar
+[x] Tomar café
 
-NUM | NOME | Nota
+N° | Nome | Nota
 ---|---|---
 1 | Alfredo | 7
 2 | dot | 9
