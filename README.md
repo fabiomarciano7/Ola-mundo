@@ -1,17 +1,17 @@
 # Olá, mundo!
  Repositório criado como teste para aprender **o básico da integração do git e github**, além de iniciar os estudos da linguagem latex
 
-Markdown
+# Markdown
+
 **negrito**
 *italico*
 ~~riscado~~
+__*Podemos misturar marcas*__
 # Títulos 1
 ## Título 2
 ## Título 3
 Linha
 ---
-
-__*Podemos misturar marcas*__
 
 Lista numerada:
 1. um
@@ -23,8 +23,10 @@ Bullet list
    * dois
 
 Lista de tarefas
-[] aprender a codar
-[x] Tomar café
+- [] aprender a codar
+- [x] Tomar café
+
+---
 
 N° | Nome | Nota
 ---|---|---
